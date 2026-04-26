@@ -1,6 +1,6 @@
-# Hi 👋, I'm Yash Shah
+<h1 align="center">Hi 👋, I'm Yash Shah</h1>
 
-### 🚀 Computer Science Student | AI/ML & Deep Learning Enthusiast | Turning Data into Intelligent Systems
+<h1 align="center">🚀 Computer Science Student | AI/ML & Deep Learning Enthusiast | Turning Data into Intelligent Systems</h1>
 
 ---
 
