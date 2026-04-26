@@ -42,11 +42,5 @@
 
 ---
 
-## 🔥 Projects:
-- 🚦 Traffic Congestion Detector (YOLO + OpenCV)
-- 🎬 Movie Booking App (MERN Stack)
-
----
-
 ## 📫 Contact:
 - Email: shahc716@gmail.com
