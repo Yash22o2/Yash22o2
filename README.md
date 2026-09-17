@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Shah</h1>
-<h3 align="center">Full-Stack AI Developer | LLM Agents, RAG & Production-Grade AI Systems</h3>
+<h3 align="center">AI/ML Engineer | Full-Stack AI Developer | LLM Agents, RAG & Production-Grade AI Systems</h3>
 <p align="center">
 Building AI systems that ship — from LangGraph multi-agent pipelines to async FastAPI backends with real reliability guardrails.
 </p>
@@ -13,18 +13,20 @@ Building AI systems that ship — from LangGraph multi-agent pipelines to async 
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00BFFF?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-F9AB00?style=for-the-badge)
 ![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF5722?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-607D8B?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -53,8 +55,6 @@ Building AI systems that ship — from LangGraph multi-agent pipelines to async 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-800080?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Model Deployment](https://img.shields.io/badge/Model_Deployment-E34F26?style=for-the-badge)
